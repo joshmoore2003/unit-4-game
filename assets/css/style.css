@@ -1,0 +1,77 @@
+#title {
+    background-color: rgb(172, 76, 38);
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+#instructions {
+    background-color: rgb(247, 207, 122);
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+.crystal-image {
+    width: 70px;
+}
+
+#random-number {
+    background-color: teal;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;   
+    font-size: 50px;
+    color: #fff;
+}
+
+#wins-losses {
+    float: left;
+    background-color: lightblue;
+    width: 100px;
+    height: 200px;
+    margin: 10px;
+}
+
+#wins-losses p {
+    padding: 10px;
+}
+
+#crystals {
+    width: 300px;
+}
+
+#yourscore {
+    background-color: teal;
+    width: 300px;
+    height: 15px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 700;
+}
+
+#users-score {
+    background-color: teal;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+}
